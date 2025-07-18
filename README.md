@@ -51,7 +51,7 @@ This repository is designed for research and educational purposes. Make sure to 
 
 ---
 
-## ✍️ Author
+## ✍️ Authors
 H.M.Lihini Sangeetha
 H.M. Gammulle
 
