@@ -31,6 +31,12 @@ Training and evaluation using k-fold cross-validation with multiple CNN architec
 - **`SinhalaDemoWebCam.ipynb`**  
   Real-time sign recognition for Sinhala sign language using a webcam.
 
+### 🎥 6. Evaluate web cam predictions using SHAP plot
+- **`SHAPoutput.ipynb`**  
+ for American Sign Language dataset.  
+- **`SinhalaSignLanguage.ipynb`**  
+  for Sinhala sign language dpi=680(dots per inch) because need to get clear SHAP plots.
+
 ---
 
 ## 📈 Model Explainability (Optional)
